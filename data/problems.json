@@ -1,0 +1,15 @@
+[
+    {
+        "number": "3090",
+        "name": "Maximum Length Substring With Two Occurrences",
+        "slug": "maximum-length-substring-with-two-occurrences",
+        "difficulty": "Easy",
+        "topics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ],
+        "language": "Java",
+        "file_path": "solutions/easy/3090-Maximum-Length-Substring-With-Two-Occurrences.java"
+    }
+]
